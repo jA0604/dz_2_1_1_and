@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dz_2_1_1_and</string>
+    <string name="dz_name">Форма приема оплаты</string>
+    <string name="str_chk_card">С банковской карты</string>
+    <string name="str_chk_phone">С мобильного телефона</string>
+    <string name="str_chk_cash">Наличными по адресу</string>
+    <string name="str_et_money">Ввод денег</string>
+    <string name="str_et_input">Ввод денег</string>
+    <string name="str_btn_ok">OK</string>
+
+</resources>
